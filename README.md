@@ -1,2 +1,3 @@
 # PWM_Deadtime_Gen_VHDL
-Simple PWM and deadtime generation &amp; simulation in VHDL | Step by Step  |  Xilinx Vivado
+Simple PWM Generation in VHDL & Simulation in Verilog | Step by Step  |  Xilinx Vivado
+Dead-time Generation in VHDL & Simulation in Verilog  | Step by Step  |  Xilinx Vivado
